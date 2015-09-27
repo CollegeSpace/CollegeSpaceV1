@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layout_main"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/Theme_Blue_Swipe_C2"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/margin_02"
+        android:background="@drawable/shadow_1">
+        <Button
+            android:id="@+id/btn_add_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="@color/Theme_Blue_Swipe_C3"
+            android:textColor="#ffff"
+            android:text="Add Date" />
+    </LinearLayout>
+    <ListView
+        android:id="@+id/dates"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:scrollbarSize="@dimen/scroll_bar"
+        android:scrollbarThumbVertical="@color/Theme_Blue_Scroll"
+        android:focusable="false">
+    </ListView>
+</LinearLayout>

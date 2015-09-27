@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Theme_Blue_Swipe_C1" type="color">#ffEEB269</item>
+    <item name="Theme_Blue_Swipe_C2" type="color">#ff4DB19E</item>
+    <item name="Theme_Blue_Swipe_C3" type="color">#ffDC5753</item>
+    <item name="Theme_Blue_Swipe_C4" type="color">#ff354D59</item>
+    <item name="Theme_Blue_Font" type="color">#ff1D285F</item>
+    <item name="Theme_Blue_Light" type="color">#FF0074c1</item>
+    <item name="Theme_Blue_Dark" type="color">#FF005187</item>
+    <item name="Theme_Blue_Highlight" type="color">#FF9dd01e</item>
+    <item name="Theme_Blue_Shadow_Start" type="color">#001D285F</item>
+    <item name="Theme_Blue_Shadow_Middle" type="color">#001D285F</item>
+    <item name="Theme_Blue_Shadow_End" type="color">#AA1D285F</item>
+    <item name="Theme_Blue_Shadow2_Start" type="color">#001D285F</item>
+    <item name="Theme_Blue_Shadow2_Middle" type="color">#331D285F</item>
+    <item name="Theme_Blue_Shadow2_End" type="color">#AA1D285F</item>
+    <item name="Theme_Blue_Scroll" type="color">#AA757575</item>
+
+</resources>

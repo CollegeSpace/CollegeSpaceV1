@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CollegeSpace</string>
+    <!-- Version_Number.Tracker_Installed.Changeset_hash.ALPHA/BETA/STABLE -->
+    <string name="app_version">2.0.723625c.1</string>
+    <string name="hello_world">Hello world! :P ^_^</string>
+    <string name="action_settings">Settings</string>
+    <string name="temp_post">The quick brown fox jump over the lazy dog</string>
+    <string name="copyright">©2015 All rights reserved.</string>
+    <string name="description"><strong>CollegeSpace</strong>, the Socio-Academic Portal of NSIT, is the most frequently-visited website of NSIT. We started out with a team of three with an aim to provide everything that is necessary to the students during the four years of college and now, after two successful years, we have a large team of hardworking and committed students working in various departments.</string>
+</resources>
