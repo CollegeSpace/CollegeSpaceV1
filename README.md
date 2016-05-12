@@ -1,4 +1,4 @@
-# CollegeSpace Android Application
-## To Do's
-1. Add notes and papers section to the app for offline viewing.
-2. Add NSITPedia section.
+# CollegeSpaceV1
+Android Platform target CollegeSpaceV1 App.
+
+**Note:** Version 2 has been released. Please check that [out](https://github.com/CollegeSpace/CollegeSpaceV2).
